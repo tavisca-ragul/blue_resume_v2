@@ -1,0 +1,65 @@
+footer{
+  background-color: #F0CEA0;
+  padding: 5px;
+  text-align: center;
+}
+
+.experience-title{
+  display: flex;
+}
+
+.experience-title-line{
+  background-color: black;
+  width: 400px;
+  height: 2px;
+  position: relative;
+  top: 15px;
+}
+
+.experience-title-line1{
+    margin-left: 30px;
+}
+
+.experience-title-line2{
+    margin-right: 52px;
+}
+
+.experience-title-value{
+  width: 270px;
+  padding: 6px;
+  text-align: center;
+  background-color:#F0CEA0;
+}
+
+.experience-content{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.experience-content div{
+  padding: 35px;
+}
+
+.experience-content-discription{
+  width: 760px;
+
+}
+
+.experience-content-discription ul{
+  padding-left: 15px;
+
+}
+
+.experience-content-organization{
+  text-align: center;
+  width:100px;
+}
+
+.experience-content-organization ul{
+  list-style-type: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #AAB7B8;
+  position: relative;
+  top: 18px;
+}
